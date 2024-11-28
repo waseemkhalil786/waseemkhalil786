@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
   <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemkhalil786&label=Profile%20views&color=0e75b6&style=flat" alt="waseemkhalil786" /> </p>
+  
   <br/>
-  - 🔭 I’m currently working on [LMS](apni-app.netlify.app/)
+  
+- 🔭 I’m currently working on <a href="apni-app.netlify.app">LMS</a>
 
 - 🌱 I’m currently learning **Next JS & Native**
 
