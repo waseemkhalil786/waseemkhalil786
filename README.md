@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <div disply:flex justify-content:between>
 <img align="" alt="Coding" width="400" src="https://camo.githubusercontent.com/2d5fd1778db8bb1cb010748a80ae97878e832330f1da45519a4305014d57b08c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966" alt="">
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemkhalil786&label=Profile%20views&color=0e75b6&style=flat" alt="waseemkhalil786" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waseemkhalil786" alt="waseemkhalil786" /></a> </p>
-
-- 🔭 I’m currently working on [LMS](apni-app.netlify.app/)
+  - 🔭 I’m currently working on [LMS](apni-app.netlify.app/)
 
 - 🌱 I’m currently learning **Next JS & Native**
 
 - 💬 Ask me about **MEARN STACK**
 
 - 📫 How to reach me **waseemkhalilworld@gmail.com**
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemkhalil786&label=Profile%20views&color=0e75b6&style=flat" alt="waseemkhalil786" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waseemkhalil786" alt="waseemkhalil786" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
