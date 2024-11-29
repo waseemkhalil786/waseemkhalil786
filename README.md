@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **waseemkhalilworld@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/kk/AppData/Local/Microsoft/Windows/INetCache/IE/I6EF31VK/Waseem_Khalil_Resume_20241111_132628_0000[1].pdf](file:///C:/Users/kk/AppData/Local/Microsoft/Windows/INetCache/IE/I6EF31VK/Waseem_Khalil_Resume_20241111_132628_0000[1].pdf)
+- 📄 Know about my experiences 6 months
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
