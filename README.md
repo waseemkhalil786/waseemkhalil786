@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waseem Khalil</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3><br/>
 
-<p align="center" <img src="![gig1](https://github.com/user-attachments/assets/aa8036a3-35d2-42e3-b829-0709579e664d)
+<p align="center"> <img src="![gig1](https://github.com/user-attachments/assets/aa8036a3-35d2-42e3-b829-0709579e664d)
 
 " alt="Banner"  width="100%" hieght="100px" />Logo </p>
 
