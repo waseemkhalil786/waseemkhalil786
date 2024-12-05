@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waseem Khalil</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3><br/>
+<p align="center" <img src="![WhatsApp Image 2024-12-03 at 08 12 12_4715c179](https://github.com/user-attachments/assets/7660ab48-5713-4cd4-8ded-7746e48fa539)
+" alt="Banner" /> </p>
 
   <br/>
 
@@ -16,6 +18,7 @@
 - 📄 Know about my experiences 6 months
 
 <h3 align="left">Connect with me:</h3>
+<br/>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waseem-khalil-795b732a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waseem-khalil-795b732a7/" height="30" width="40" /></a>
 </p>
