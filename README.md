@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waseem Khalil</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3><br/>
 
-<p align="left"> <img src="file:///C:/Users/kk/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/05A5CF06982BA7892ED2A6D38FE832D6/WhatsApp%20Image%202024-12-03%20at%2008.12.12_a441f269.jpg" alt="waseemkhalil786" /> </p>
+<p align="left"> <img src="file:///C:/Users/kk/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/05A5CF06982BA7892ED2A6D38FE832D6/WhatsApp%20Image%202024-12-03%20at%2008.12.12_a441f269.jpg" alt="Logo" width="500px" height="500px" /> </p>
 
   <br/>
 
