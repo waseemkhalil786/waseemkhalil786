@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waseem Khalil</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3><br/>
+<h3 align="center">A passionate Web Developer from Pakistan</h3><br/>
 
   <br/>
 
