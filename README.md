@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Waseem Khalil</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3><br/>
 
-<p align="center"> <img src="![gig1](https://github.com/user-attachments/assets/aa8036a3-35d2-42e3-b829-0709579e664d)
+<p align="left"> <img src="file:///C:/Users/kk/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/05A5CF06982BA7892ED2A6D38FE832D6/WhatsApp%20Image%202024-12-03%20at%2008.12.12_a441f269.jpg" alt="waseemkhalil786" /> </p>
 
-" alt="Banner"  width="100%" hieght="100px" />Logo </p>
-
-  <br/>
   <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemkhalil786&label=Profile%20views&color=0e75b6&style=flat" alt="waseemkhalil786" /> </p>
