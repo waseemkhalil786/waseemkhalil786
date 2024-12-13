@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [LMS](apni-app.netlify.app/)
 
-- 🌱 I’m currently learning **Next JS & React Native**
+- 🌱 I’m currently learning **Express NodeJS Mongodb**
 
 - 💬 Ask me about **MEARN STACK Developer**
 
