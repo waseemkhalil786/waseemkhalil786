@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Waseem Khalil</h1>
+<h1 align="center">Hi 👋, I'm WASEEM KHALIL</h1>
 <h3 align="center">A Passionate Full Stack Developer From Pakistan</h3><br/>
 
 
